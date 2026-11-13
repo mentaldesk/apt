@@ -1,0 +1,18 @@
+Package: tuicode
+Architecture: arm64
+Version: 0.9.18
+Priority: optional
+Section: editors
+Maintainer: mentaldesk <https://github.com/mentaldesk/TuiCode/issues>
+Installed-Size: 22978
+Depends: libc6 (>= 2.35)
+Suggests: wl-clipboard | xclip
+Filename: pool/main/tuicode/tuicode_0.9.18_arm64.deb
+Size: 10740896
+MD5sum: 90a987637dadac35d58c66aaed260bea
+SHA1: 7df19b3ba003042976cbfb7f43ad2e498d883282
+SHA256: b0dad6947745ca12133c6f71305e9faa47686cb70985669bb11ffac371a91130
+SHA512: 0974cdb050adb15978dfbfca5e2f3feb9bbf31777e6274a27bf09821e7f0da7e54a0442f1d6c57d404ba28cface9de60781008c2c21366ec3cbb32245765bef6
+Homepage: https://github.com/mentaldesk/TuiCode
+Description: Minimalist terminal code editor for working over SSH
+
